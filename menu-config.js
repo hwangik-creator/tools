@@ -7,7 +7,7 @@
 const menuList = [
   {
     title: "Monthly Calendar",
-    desc: "Buat kalender bulanan estetik dari file CSV Diary Letterboxd kamu.",
+    desc: "Buat kalender bulanan estetik dari file ZIP Letterboxd kamu.",
     url: "https://sites.google.com/view/kalenderhwangik/movie-calendar",
     icon: "fa-calendar-days",
     active: true // true = Aktif (Hijau), false = Mati (Redup / Soon)
